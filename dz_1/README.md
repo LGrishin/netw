@@ -1,5 +1,8 @@
 # Топология сети:
 
+![img](https://github.com/LGrishin/netw/blob/master/dz_1/topology.PNG)
+
+
 #S2:
 ```
 Switch>enable
@@ -108,3 +111,22 @@ Router(config-subif)#exit
 Router(config)#exit
 Router#write
 ```
+
+# Ping
+![img](https://github.com/LGrishin/netw/blob/master/dz_1/ping.PNG)
+
+# s2 spanning-tree
+
+![img](https://github.com/LGrishin/netw/blob/master/dz_1/s2-spanning-tree.PNG)
+
+# s2 spanning-tree
+
+![img](https://github.com/LGrishin/netw/blob/master/dz_1/s3-spanning-tree.PNG)
+
+# VPC1 IP
+
+![img](https://github.com/LGrishin/netw/blob/master/dz_1/vpc1-ip.PNG)
+
+# VPC2 IP
+
+![img](https://github.com/LGrishin/netw/blob/master/dz_1/vpc2-ip.PNG)
